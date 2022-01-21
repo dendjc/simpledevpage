@@ -4,7 +4,7 @@ body {
 #bg {
     width: 100vw;
     height: 100vh;
-    background: url(/bg.jpg);
+    background: url(../bg.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     opacity: 0.1;
